@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo semua! 
+
+Perkenalkan nama saya **Yana Nugraha**.\
+
+Saya seorang **Web Developer** di [PT. Gerbang Sinergi Prima](https://www.gsp.co.id/).\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/programmerbandung/)ku ya.
